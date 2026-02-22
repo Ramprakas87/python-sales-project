@@ -42,13 +42,16 @@ Sales-Data-Analysis/
 
 └── images/ (for dashboard screenshots)
 
-    # Project video
+# Project video
 <p align="cent https://drive.google.com/file/d/1yENz9PmVLA-QPCAZHohjsVLJIIlKwCzw/view?usp=drive_link
 ">
   <a href="">
     <img src="dashboard-preview.png" width="900" alt="Watch Dashboard Demo"/>
   </a>
 </p>
+click below to watch the video of this project on my goolgle drive
+
+https://drive.google.com/file/d/1yENz9PmVLA-QPCAZHohjsVLJIIlKwCzw/view?usp=drive_link
 
 ## 📑 Table of Contents
 
